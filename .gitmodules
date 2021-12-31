@@ -10,3 +10,6 @@
 [submodule "services/posts-service"]
 	path = services/posts-service
 	url = https://github.com/SalttySugar/posts-service
+[submodule "apps/blog"]
+	path = apps/blog
+	url = https://github.com/SalttySugar/blog
