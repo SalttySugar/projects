@@ -1,0 +1,42 @@
+# projects
+
+## general
+
+### structure
+
+- root
+  - .tools
+  - .github
+  - docs
+  - services
+    - comments
+    - storage
+    - posts
+    - users
+    - taxonomy
+    - go-comments
+    - notification
+    - email
+  - apps
+    - blog
+    - diet-journal
+    - home-keeper
+    - to-do
+    - notes
+  - charts
+    - comments
+    - storage
+    - posts
+    - users
+    - taxonomy
+    - go-comments
+    - notification
+    - email
+  - deployments
+    - blog
+    - diet-journal
+    - homekeeper
+    - to-do
+    - notes
+  - libs
+    - spring-boot-maven-starter
