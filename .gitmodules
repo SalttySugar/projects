@@ -1,3 +1,12 @@
 [submodule "services/go-comments-service"]
 	path = services/go-comments-service
 	url = https://github.com/SalttySugar/go-comments-service
+[submodule "services/comments-service"]
+	path = services/comments-service
+	url = https://github.com/SalttySugar/comments-service
+[submodule "services/storage-service"]
+	path = services/storage-service
+	url = https://github.com/SalttySugar/storage-service
+[submodule "services/posts-service"]
+	path = services/posts-service
+	url = https://github.com/SalttySugar/posts-service
